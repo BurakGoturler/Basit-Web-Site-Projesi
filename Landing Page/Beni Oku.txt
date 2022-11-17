@@ -1,0 +1,2 @@
+D:\Dosyalar\Landing Page dosya yolu oluşturun.
+İçerisine css, images klasörünü ve index.html' i yükleyin.
